@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, mundo! Eu sou o Samuel Cupertino.
 
-<!--
-**samuelCupertino/samuelCupertino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤓 Apaixonado pela 11ª arte e abstrações fora da caixa
+- 💻 Atualmente trabalho como PHP, MySQL, JavaScript, HTML e CSS
+- 🌱 Atualmente estou aprendendo Node.js e MongoDB
+- 📫 Contate-me pelo email: contato.samuelcupertino@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelCupertino&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelCupertino&layout=compact&theme=tokyonight" />
+  </a>
+</div>
