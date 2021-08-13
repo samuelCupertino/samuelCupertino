@@ -5,8 +5,8 @@
 - 🌱 Atualmente estou aprendendo Node.js e MongoDB
 - 📫 Contate-me pelo email: contato.samuelcupertino@gmail.com
 
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<div align="center">
+  <a style="margin: 55px" href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelCupertino&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
