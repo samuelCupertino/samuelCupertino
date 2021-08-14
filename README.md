@@ -24,7 +24,7 @@
     <img align="center" width="73" src="https://lh5.googleusercontent.com/iA6XX08TUnQJg_NMCUcZZIc9ssd-gdiPOpJNy3I4aDwdcNrzZ9FEfrJCkiuwwUbYxfeWacYtKuyu32kvCG13OoQWR7c9B_-F2E8UF9SXQnN9uEXh29XA5hueDN4XNEpb5F-azgpV" />
   </a>    
   <a href="https://codepen.io/samuelCupertino">
-    <img align="center" width="73" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStPX01Jpt6qeyxB2kF54KgC_GoEeyGZyui8E34D9T0OoFBfMle7sgiaRytP7rQZDeZ77s&usqp=CAU" />
+    <img align="center" width="54" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStPX01Jpt6qeyxB2kF54KgC_GoEeyGZyui8E34D9T0OoFBfMle7sgiaRytP7rQZDeZ77s&usqp=CAU" />
   </a>    
   <a href="mailto:contato.samuelcupertino@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
