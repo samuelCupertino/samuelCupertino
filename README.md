@@ -1,7 +1,7 @@
 ### Olá, mundo! Eu sou o Samuel Cupertino.
 
 - 🤓 Apaixonado pela 11ª arte e abstrações fora da caixa
-- 💻 Atualmente trabalho como PHP, MySQL, JavaScript, HTML e CSS
+- 💻 Atualmente trabalho com PHP, MySQL, JavaScript, HTML e CSS
 - 🌱 Atualmente estou aprendendo Node.js e MongoDB
 - 📫 Contate-me pelo email: contato.samuelcupertino@gmail.com
 
