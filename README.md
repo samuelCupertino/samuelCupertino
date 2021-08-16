@@ -6,7 +6,7 @@
 - 📫 Contate-me pelo email: contato.samuelcupertino@gmail.com
 
 <div>
-  <a href="https://www.linkedin.com/in/samuel-cupertino-618ba3218/" target="_blanck">
+  <a href="https://www.linkedin.com/in/samuel-cupertino-618ba3218/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://codepen.io/samuelCupertino" target="_blank">
