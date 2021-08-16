@@ -5,17 +5,6 @@
 - 🌱 Atualmente estou aprendendo Node.js e MongoDB
 - 📫 Contate-me pelo email: contato.samuelcupertino@gmail.com
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelCupertino&show_icons=true&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelCupertino&layout=compact&theme=tokyonight" />
-  </a>
-</div>
-
-<br>
-
 <div>
   <a href="https://www.linkedin.com/in/samuel-cupertino-618ba3218/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -30,5 +19,18 @@
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelCupertino&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelCupertino&layout=compact&theme=tokyonight" />
+  </a>
+</div>
+
+<br>
 
 ![Snake animation](https://github.com/samuelCupertino/samuelCupertino/blob/output/github-contribution-grid-snake.svg) 
