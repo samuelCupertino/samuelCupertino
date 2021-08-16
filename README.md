@@ -4,6 +4,9 @@
 - 💻 Atualmente trabalho com PHP, MySQL, JavaScript, HTML e CSS
 - 🌱 Atualmente estou aprendendo Node.js e MongoDB
 - 📫 Contate-me pelo email: contato.samuelcupertino@gmail.com
+
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+
 [<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samuel-cupertino-618ba3218/)
 
 <div>
