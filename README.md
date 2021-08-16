@@ -1,9 +1,9 @@
 ### Olá, mundo! Eu sou o Samuel Cupertino.
 
-- 🤓 &emsp;Apaixonado pela 11ª arte e abstrações fora da caixa
-- 💻 &emsp;Atualmente trabalho com PHP, MySQL, JavaScript, HTML e CSS
-- 🌱 &emsp;Atualmente estou aprendendo Node.js e MongoDB
-- 📫 &emsp;Contate-me pelo email: contato.samuelcupertino@gmail.com
+- 🤓&emsp;Apaixonado pela 11ª arte e abstrações fora da caixa
+- 💻&emsp;Atualmente trabalho com PHP, MySQL, JavaScript, HTML e CSS
+- 🌱&emsp;Atualmente estou aprendendo Node.js e MongoDB
+- 📫&emsp;Contate-me pelo email: contato.samuelcupertino@gmail.com
 
 <div>
   <a href="https://www.linkedin.com/in/samuel-cupertino-618ba3218/" target="_blank">
