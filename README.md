@@ -1,9 +1,9 @@
 ### Olá, mundo! Eu sou o Samuel Cupertino.
 
   
-<table width="100%">
-    <tr width="100%">
-        <td width="75%">
+<table>
+    <tr>
+        <td>
             - 🤓&emsp;Apaixonado pela 11ª arte e abstrações fora da caixa <br>
             - 💻&emsp;Atualmente trabalho com PHP, MySQL, JavaScript, HTML e CSS <br>
             - 🌱&emsp;Atualmente estou aprendendo Node.js e MongoDB <br>
