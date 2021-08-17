@@ -9,7 +9,7 @@
             - 🌱&emsp;Atualmente estou aprendendo Node.js e MongoDB <br>
             - 📫&emsp;Contate-me pelo email: contato.samuelcupertino@gmail.com <br>
         </td>
-        <td width="24.9%">
+        <td>
             <div align="center">
                 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
                 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
