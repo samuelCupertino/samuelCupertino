@@ -1,18 +1,25 @@
 ### Olá, mundo! Eu sou o Samuel Cupertino.
 
-- 🤓&emsp;Apaixonado pela 11ª arte e abstrações fora da caixa
-- 💻&emsp;Atualmente trabalho com PHP, MySQL, JavaScript, HTML e CSS
-- 🌱&emsp;Atualmente estou aprendendo Node.js e MongoDB
-- 📫&emsp;Contate-me pelo email: contato.samuelcupertino@gmail.com
-<div>
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-<div>
+  
+<table>
+    <tr>
+        <td>
+            - 🤓&emsp;Apaixonado pela 11ª arte e abstrações fora da caixa <br>
+            - 💻&emsp;Atualmente trabalho com PHP, MySQL, JavaScript, HTML e CSS <br>
+            - 🌱&emsp;Atualmente estou aprendendo Node.js e MongoDB <br>
+            - 📫&emsp;Contate-me pelo email: contato.samuelcupertino@gmail.com <br>
+        </td>
+        <td>
+            <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+            <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+            <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+            <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+            <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+            <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+            <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+        </td>
+    </tr>
+</table>
 
 <br>
   
