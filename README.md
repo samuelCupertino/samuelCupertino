@@ -1,15 +1,15 @@
 ### Olá, mundo! Eu sou o Samuel Cupertino.
 
   
-<table>
-    <tr>
-        <td width="60%">
+<table width="100%">
+    <tr width="100%">
+        <td width="75%">
             - 🤓&emsp;Apaixonado pela 11ª arte e abstrações fora da caixa <br>
             - 💻&emsp;Atualmente trabalho com PHP, MySQL, JavaScript, HTML e CSS <br>
             - 🌱&emsp;Atualmente estou aprendendo Node.js e MongoDB <br>
             - 📫&emsp;Contate-me pelo email: contato.samuelcupertino@gmail.com <br>
         </td>
-        <td width="39%">
+        <td width="24.9%">
             <div align="center">
                 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
                 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
