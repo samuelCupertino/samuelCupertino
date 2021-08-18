@@ -63,5 +63,7 @@
     </tr>
 </table>
 
-  
-![Snake animation](https://github.com/samuelCupertino/samuelCupertino/blob/output/github-contribution-grid-snake.svg) 
+
+![Snake animation](https://github.com/samuelCupertino/samuelCupertino/blob/output/github-contribution-grid-snake.svg)
+
+##
