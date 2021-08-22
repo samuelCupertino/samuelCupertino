@@ -28,7 +28,6 @@
     </tr>
 </table>
   
-  
 <div>
   <a href="https://www.linkedin.com/in/samuel-cupertino-618ba3218/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -44,9 +43,7 @@
   </a>    
 </div>
 
-
 <br>
-
 
 <table>
     <tr>
@@ -62,6 +59,5 @@
         </td>
     </tr>
 </table>
-
 
 ![Snake animation](https://github.com/samuelCupertino/samuelCupertino/blob/output/github-contribution-grid-snake.svg)
