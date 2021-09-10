@@ -40,7 +40,6 @@
   </a>
   <a href="https://codepen.io/samuelCupertino" target="_blank">
     <img align="center" width="75" src="https://i1.wp.com/blog.codepen.io/wp-content/uploads/2012/08/main_logo.jpeg?resize=690%2C258&ssl=1" />
-    <img align="center" width="73" src="https://lh5.googleusercontent.com/iA6XX08TUnQJg_NMCUcZZIc9ssd-gdiPOpJNy3I4aDwdcNrzZ9FEfrJCkiuwwUbYxfeWacYtKuyu32kvCG13OoQWR7c9B_-F2E8UF9SXQnN9uEXh29XA5hueDN4XNEpb5F-azgpV" />
   </a>    
 </div>
 
