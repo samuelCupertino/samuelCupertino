@@ -58,7 +58,7 @@
               <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelCupertino&layout=compact&theme=tokyonight" />
             </a>
         </td>
-    </tr>
+    </tr> 
 </table>
 
 ![Snake animation](https://github.com/samuelCupertino/samuelCupertino/blob/output/github-contribution-grid-snake.svg)
