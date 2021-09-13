@@ -39,7 +39,7 @@
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://codepen.io/samuelCupertino" target="_blank">
-    <img align="center" width="76.1" src="https://i1.wp.com/blog.codepen.io/wp-content/uploads/2012/08/main_logo.jpeg?resize=690%2C258&ssl=1" />
+    <img align="center" width="76.5" src="https://i1.wp.com/blog.codepen.io/wp-content/uploads/2012/08/main_logo.jpeg?resize=690%2C258&ssl=1" />
   </a>    
 </div>
 
