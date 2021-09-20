@@ -3,9 +3,9 @@
 <table>
     <tr>
         <td>
-            - 🤓 Apaixonado pela 11ª arte e abstrações fora da caixa <br>
-            - 💻 Atualmente trabalho com PHP, MySQL, JavaScript, HTML e CSS <br>
-            - 🌱 Atualmente estou aprendendo Node.js e MongoDB <br>
+            - 🤓 Apaixonado pela 11ª arte e abstrações fora da caixa. <br>
+            - 💻 Atualmente trabalho com PHP, MySQL, JavaScript, HTML e CSS. <br>
+            - 🌱 Atualmente estou aprendendo Node.js e MongoDB. <br>
             - 📫 Contate-me pelo email: <a href="mailto:contato.samuelcupertino@gmail.com">contato.samuelcupertino@gmail.com</a>
         </td>
         <td>
