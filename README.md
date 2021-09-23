@@ -2,27 +2,27 @@
 
 <table>
     <tr>
-        <td>
+        <td width="70%">
             - 🤓 Apaixonado pela 11ª arte e abstrações fora da caixa. <br>
             - 💻 Atualmente trabalho com PHP, MySQL, HTML, CSS, JavaScript, Node.js e MongoDB <br>
             - 🌱 Atualmente estou aprendendo Amazon AWS. <br>
             - 📫 Contate-me pelo email: <a href="mailto:contato.samuelcupertino@gmail.com">contato.samuelcupertino@gmail.com</a>
         </td>
-        <td>
-            <div align="center" width="50%">
+        <td width="20%">
+            <div align="center">
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
             </div>
-            <div align="center" width="30%">
+            <div align="center">
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
             </div>
         </td>
-        <td>
-            <div align="center" width="20%">
+        <td width="10%">
+            <div align="center">
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
             </div>
         </td>
