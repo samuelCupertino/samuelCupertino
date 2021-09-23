@@ -3,10 +3,10 @@
 <table>
     <tr>
         <td width="65%">
-            - 🤓 Apaixonado pela 11ª arte e abstrações fora da caixa. <br>
-            - 💻 Atualmente trabalho com PHP, MySQL, HTML, CSS, JavaScript, Node.js e MongoDB. <br>
-            - 🌱 Atualmente estou aprendendo Amazon AWS e Vue.js. <br>
-            - 📫 Contate-me pelo email: <a href="mailto:contato.samuelcupertino@gmail.com">contato.samuelcupertino@gmail.com</a>
+            - 🤓&ensp;Apaixonado pela 11ª arte e abstrações fora da caixa. <br>
+            - 💻&ensp;Atualmente trabalho com PHP, MySQL, HTML, CSS, JavaScript, Node.js e MongoDB. <br>
+            - 🌱&emsp;Atualmente estou aprendendo Amazon AWS e Vue.js. <br>
+            - 📫&emsp;Contate-me pelo email: <a href="mailto:contato.samuelcupertino@gmail.com">contato.samuelcupertino@gmail.com</a>
         </td>
         <td width="25%">
             <div align="center">
