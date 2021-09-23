@@ -2,13 +2,13 @@
 
 <table>
     <tr>
-        <td width="70%">
+        <td width="65%">
             - 🤓 Apaixonado pela 11ª arte e abstrações fora da caixa. <br>
             - 💻 Atualmente trabalho com PHP, MySQL, HTML, CSS, JavaScript, Node.js e MongoDB <br>
             - 🌱 Atualmente estou aprendendo Amazon AWS. <br>
             - 📫 Contate-me pelo email: <a href="mailto:contato.samuelcupertino@gmail.com">contato.samuelcupertino@gmail.com</a>
         </td>
-        <td width="20%">
+        <td width="25%">
             <div align="center">
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
