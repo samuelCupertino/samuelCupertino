@@ -5,7 +5,7 @@
         <td width="65%">
             - 🤓 Apaixonado pela 11ª arte e abstrações fora da caixa. <br>
             - 💻 Atualmente trabalho com PHP, MySQL, HTML, CSS, JavaScript, Node.js e MongoDB. <br>
-            - 🌱 Atualmente estou aprendendo Amazon AWS. <br>
+            - 🌱 Atualmente estou aprendendo Amazon AWS e Vue.js <br>
             - 📫 Contate-me pelo email: <a href="mailto:contato.samuelcupertino@gmail.com">contato.samuelcupertino@gmail.com</a>
         </td>
         <td width="25%">
@@ -24,6 +24,7 @@
         <td width="10%">
             <div align="center">
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+                <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
             </div>
         </td>
     </tr>
