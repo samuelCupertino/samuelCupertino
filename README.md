@@ -8,7 +8,7 @@
             - 🌱&ensp;Atualmente estou aprendendo Amazon AWS e Vue.js. <br>
             - 📫&ensp;Contate-me pelo email: <a href="mailto:contato.samuelcupertino@gmail.com">contato.samuelcupertino@gmail.com</a>
         </td>
-        <td width="24%">
+        <td width="23.5%">
             <div align="center">
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
@@ -21,7 +21,7 @@
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
             </div>
         </td>
-        <td width="9%">
+        <td width="8.5%">
             <div align="center">
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
