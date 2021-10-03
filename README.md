@@ -2,7 +2,7 @@
 
 <table>
     <tr>
-        <td width="67%">
+        <td width="68%">
             - 🤓&ensp;Apaixonado pela 11ª arte e abstrações fora da caixa. <br>
             - 💻&ensp;Atualmente trabalho com PHP, MySQL, HTML, CSS, JavaScript, Node.js e MongoDB. <br>
             - 🌱&ensp;Atualmente estou aprendendo Amazon AWS e Vue.js. <br>
