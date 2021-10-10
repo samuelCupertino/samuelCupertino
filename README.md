@@ -6,7 +6,7 @@
             - 🤓&ensp;Apaixonado pela 11ª arte e abstrações fora da caixa. <br>
             - 💻&ensp;Atualmente trabalho com PHP, MySQL, HTML, CSS, JavaScript, Node.js e MongoDB. <br>
             - 🌱&ensp;Atualmente estou aprendendo Amazon AWS e Vue.js. <br>
-            - 📫&ensp;Contate-me pelo email: <a href="mailto:contato.samuelcupertino@gmail.com">contato.samuelcupertino@gmail.com</a>
+            - 📫&ensp;Contate-me pelo email: <a href="mailto:contato.samuelcupertino@gmail.com">contato.samuelcupertino@gmail.com</a>.
         </td>
         <td width="23.5%">
             <div align="center">
