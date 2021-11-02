@@ -2,13 +2,13 @@
 
 <table>
     <tr>
-        <td width="68%">
+        <td width="65%">
             - 🤓&ensp;Apaixonado pela 11ª arte e abstrações fora da caixa. <br>
             - 💻&ensp;Atualmente trabalho com PHP, MySQL, HTML, CSS, JavaScript, Node.js e MongoDB. <br>
             - 🌱&ensp;Atualmente estou aprendendo Amazon AWS, TypeScript e React. <br>
             - 📫&ensp;Contate-me pelo email: <a href="mailto:contato.samuelcupertino@gmail.com">contato.samuelcupertino@gmail.com</a>.
         </td>
-        <td width="23.5%">
+        <td width="23%">
             <div align="center">
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
@@ -21,10 +21,11 @@
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
             </div>
         </td>
-        <td width="8.5%">
+        <td width="12%">
             <div align="center">
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-                <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+                <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+                <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
             </div>
         </td>
     </tr>
