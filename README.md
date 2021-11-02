@@ -8,7 +8,7 @@
             - 🌱&ensp;Atualmente estou aprendendo Amazon AWS, TypeScript e React. <br>
             - 📫&ensp;Contate-me pelo email: <a href="mailto:contato.samuelcupertino@gmail.com">contato.samuelcupertino@gmail.com</a>.
         </td>
-        <td width="18%">
+        <td width="20%">
             <div align="center">
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
@@ -21,7 +21,7 @@
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
             </div>
         </td>
-        <td width="12%">
+        <td width="10%">
             <div align="center">
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
