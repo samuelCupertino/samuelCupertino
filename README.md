@@ -1,4 +1,4 @@
-### Olá, mundo! Eu sou o Samuel Cupertino.
+### Olá, mundo! Eu sou o Samuel Cupertino. 🚀
 
 <table>
     <tr>
