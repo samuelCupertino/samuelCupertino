@@ -5,7 +5,7 @@
         <td width="65%">
             - 🤓&ensp;Apaixonado pela 11ª arte e abstrações fora da caixa. <br>
             - 💻&ensp;Atualmente trabalho com Node.js, MySQL, MongoDB, Next.js, React, React Native, TypeScript, JavaScript, HTML e CSS... <br>
-            - 🌱&ensp;Atualmente estou aprendendo Amazon AWS e Vue. <br>
+            - 🌱&ensp;Atualmente estou aprendendo Amazon AWS, Vue e Nuxt. <br>
             - 📫&ensp;Contate-me pelo email: <a href="mailto:contato.samuelcupertino@gmail.com">contato.samuelcupertino@gmail.com</a>.
         </td>
         <td width="25%">
