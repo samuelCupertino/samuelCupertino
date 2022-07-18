@@ -4,8 +4,8 @@
     <tr>
         <td width="65%">
             - 🤓&ensp;Apaixonado pela 11ª arte e abstrações fora da caixa. <br>
-            - 💻&ensp;Atualmente trabalho com Node.js, MySQL, MongoDB, Next.js, React, React Native, TypeScript, JavaScript, HTML e CSS... <br>
-            - 🌱&ensp;Atualmente estou aprendendo Amazon AWS, Vue e Nuxt. <br>
+            - 💻&ensp;Atualmente trabalho com Node.js, MySQL, MongoDB, Next.js, React, React Native, Nuxt, Vue, TypeScript, JavaScript, HTML e CSS... <br>
+            - 🌱&ensp;Atualmente estou aprendendo Amazon AWS. <br>
             - 📫&ensp;Contate-me pelo email: <a href="mailto:contato.samuelcupertino@gmail.com">contato.samuelcupertino@gmail.com</a>.
         </td>
         <td width="25%">
@@ -18,19 +18,21 @@
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+                <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
             </div>
             <div align="center">
-                <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
                 <img width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" />
+            </div>
+            <div align="center">
+                <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
+                <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
             </div>
         </td>
         <td width="10%">
             <div align="center">
                 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-                <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-                <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
             </div>
         </td>
     </tr>
